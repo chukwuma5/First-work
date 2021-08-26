@@ -1,0 +1,503 @@
+#rit {
+    font-size: 35px;
+    font-weight: normal;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.boss {
+    font-style: italic;
+}
+
+.aza #ex {
+    text-align: right;
+    cursor: pointer;
+}
+
+.fan {
+    font-size: 14px;
+}
+
+article {
+    font-family: 'Courier New';
+    font-size: 13px;
+    font-weight: lighter;
+}
+
+li {
+    font-size: 14px;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 14px;
+    line-height: 200%;
+}
+
+#damn .panda{
+    text-align: center;
+}
+
+#qa {
+    border: 1px solid rgb(167, 163, 163);
+    border-collapse: collapse;
+    width: 10px;
+}
+
+#call {
+    border: 1px solid rgb(167, 163, 163);
+    border-collapse: collapse;
+   border-bottom: 1px solid rgb(167, 163, 163);
+   margin: 15px;
+   padding: 5px;
+
+}
+
+.as {
+    border: 1px solid rgb(167, 163, 163);
+    border-collapse: collapse;
+    border-bottom: 1px solid rgb(167, 163, 163);
+    margin: 10px;  
+    padding: 10px;
+    padding-left: 20px;
+    font-size: 14px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+#ac {
+    border: 1px solid rgb(167, 163, 163);
+    border-collapse: collapse;
+    border-bottom: 1px solid rgb(167, 163, 163); 
+    padding: 10px; 
+    font-size: 14px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+#as {
+    border: 1px solid rgb(167, 163, 163);
+    font-size: 14px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+#inner {
+    text-align: center;
+}
+
+#ops {
+    width: 200px;
+    border: 1px solid lightslategrey;
+}
+.wili {
+    border: 1px solid lightslategrey;
+    width: 300px;
+    background-color: whitesmoke;
+}
+#so {
+    width: 240px;
+    background-color: white;
+    border: 1px solid lightslategrey;
+    margin-top: 5px;
+}
+.wani {
+     border: 1px solid lightslategrey;
+     width: 290px;
+     background-color: whitesmoke;
+     padding-right: 18px;
+     padding-left: 4px;
+}
+
+
+#ana {
+    width: 350px;
+    border: 1px solid lightslategrey;
+}
+
+#ran {
+    border: 1px solid black;
+    width: 450px;
+    background-color: whitesmoke;
+}
+
+h4 {
+    font-size: 20px;
+    font-family: arial;
+    line-height: 4px;
+}
+
+.topine {
+    font-family: arial;
+    font-size: 15px;
+    line-height: 200%;
+}
+.rapa {
+    font-weight: lighter;
+}
+
+#soar {
+    width: 350px;
+    height: 200px;
+}
+
+.sak{
+    border: 1px solid black;
+    width: 400px;
+    background-color: whitesmoke;
+}
+
+#doings {
+    display: inline-block;
+    border: 1px solid lightslategray;
+    background-color: whitesmoke;
+    width: 350px;
+    padding: 30px;
+    margin: 10px;
+}
+
+#wey {
+    width: 400px;
+    border: 1px solid lightslategray;
+}
+#save {
+    width: 400px;
+    border: 1px solid lightslategray;
+    background-color: whitesmoke;
+}
+
+#guu {
+    width: 300px;
+}
+
+.con {
+    border: 1px solid lightslategray;
+    width: 490px;
+    background-color: whitesmoke;
+    padding: 10px 5px;
+
+}
+
+.ask {
+     border: 1px solid lightslategrey;
+     width: 500px;
+     background-color: whitesmoke;
+}
+
+.moon {
+    border: 1px solid lightslategrey;
+    width: 400px;
+    background-color: whitesmoke;
+}
+
+#laste {
+    border: 1px solid lightslategrey;
+    width: 350px;
+    background-color: whitesmoke;
+}
+
+h5 {
+    text-align: center;
+    font-size: 18px;
+    font-family: arial;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+h2 {
+line-height: 10px;
+}
+
+#ar {
+ text-align: center
+}
+
+.zz {
+    border: 1px solid rgb(167, 163, 163);
+    border-collapse: collapse;
+    border-bottom: 2px solid rgb(167, 163, 163);  
+    padding: 10px; 
+    font-size: 14px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+
+.pat {
+    font-size: 14px;
+}
+
+.oud {
+    font-size: 14px;
+}
+a {
+    color: mediumslateblue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: turquoise;
+    text-decoration: underline;
+}
+
+a:active {
+    color: rosybrown;
+}
+
+
+#ap {
+    border: 1px solid rgb(167, 163, 163);
+    border-collapse: collapse;
+    border-bottom: 1px solid rgb(167, 163, 163); 
+    padding: 20px;
+    padding-bottom: 10px;
+    font-size: 14px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+.as i {
+    color: green;
+}
+
+#as i {
+    color: green;
+}
+
+
+#af {
+    border: 1px solid rgb(167, 163, 163);
+    border-collapse: collapse;
+    border-bottom: 1px solid rgb(167, 163, 163);   
+    padding: 10px;
+    font-size: 14px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+#sz {
+    border: 1px solid rgb(167, 163, 163);
+    border-collapse: collapse;
+    border-bottom: 1px solid rgb(167, 163, 163);
+       padding: 0px;
+       border-top: none;
+       border-right: none;
+       border-left: none;
+}
+
+#as {
+    border: 1px solid rgb(167, 163, 163);
+    border-collapse: collapse;
+    border-bottom: 1px solid rgb(167, 163, 163);  
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+.zz {
+    border: 1px solid rgb(167, 163, 163);
+    border-collapse: collapse;
+    border-bottom: 2px solid rgb(167, 163, 163);  
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+
+#qa {
+background-color: whitesmoke;
+}
+
+.zoo {
+    border: 1px solid rgb(167, 163, 163);
+    border-collapse: collapse;
+    border-bottom: 1px solid rgb(167, 163, 163);; 
+    border-top: none;
+    border-right: none;
+    border-left: none;  
+}
+
+#roy {
+    text-align: center;
+    border-collapse: collapse;
+    border: 1px solid rgb(167, 163, 163);
+    border-bottom: 2px solid rgb(167, 163, 163);
+    border-top: none;
+    border-right: none;
+    border-left: none;
+   
+}
+
+#voy {
+    border: 1px solid rgb(167, 163, 163);
+    border-collapse: collapse;
+    border-right: wheat;
+   border-bottom: 1px solid rgb(167, 163, 163);
+   border-top: none;
+   border-right: none;
+   border-left: none;
+}
+
+#hazd  {
+    border: 1px solid rgb(167, 163, 163);
+    border-collapse: collapse;
+    background-color: whitesmoke;
+}
+
+#hard:nth-child(n) {
+border-bottom: 1px solid rgb(167, 163, 163);
+}
+
+#had:nth-child(n) {
+    border-bottom: 1px solid rgb(167, 163, 163);
+    }
+
+#hard {
+    border: 1px solid rgb(167, 163, 163);
+    border-collapse: collapse;
+    padding: 15px;
+    text-align: left;
+}
+
+#had {
+    border: 1px solid rgb(167, 163, 163);
+    border-collapse: collapse;
+    text-align: right;
+    padding: 15px;
+}
+
+#hand {
+    border: 1px solid rgb(167, 163, 163);
+    border-collapse: collapse;
+    padding: 15px;
+    background-color: lightgrey;
+}
+
+#sapa {
+    border: 1px solid rgb(167, 163, 163);
+    border-collapse: collapse;
+    width: 1500px;
+    background-color: whitesmoke;
+}
+
+#wrg {
+text-align: center;
+font-size: 15px;
+}
+
+
+#bigi {
+    text-align: center;
+    font-size: 15px;
+}
+
+#mis  {
+    text-align: center;
+    font-size: 15px;
+}
+
+#bind {
+    text-align: center;
+    font-size: 15px;
+}
+
+#low{
+    background-color: rgb(204, 204, 255);
+    border: none;
+    margin-top: 2px;
+}
+
+#asam {
+    background-color: rgb(204, 204, 255);
+    width: 10px;
+    border-top: 1px solid white;
+}
+
+#red {
+    background-color: rgb(204, 204, 255);
+    border-bottom: 3px solid white;
+    text-align: center;
+}
+
+#ed {
+    background-color: rgb(204, 204, 255);
+    border-bottom: 2px solid white;
+    border-left: 2px solid white;
+    border-top: 1px solid white;
+}
+
+#der {
+    background-color: rgb(204, 204, 255);
+    border-top: 3px solid white;
+    text-align: center;
+}
+
+#lue {
+    background-color: rgb(204, 204, 255);
+    border-left: 2px solid white;
+    text-align: center;
+    border-top: 1px solid white;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+#reen {
+    background-color: rgb(204, 204, 255);
+    border-left: 2px solid white;
+    text-align: center;
+    border-top: 1px solid white;
+    padding-right: 80px;
+    padding-left: 80px;
+}
+
+#range {
+    background-color: rgb(204, 204, 255);
+    border-left: 2px solid white;
+    text-align: center;
+    border-top: 1px solid white;
+    padding-right: 70px;
+    padding-left: 70px;
+}
+
+#dondada {
+    background-color: rgb(204, 204, 255);
+    border-left: 2px solid white;
+    text-align: center;
+    border-top: 1px solid white;
+}
+ 
+#red {
+    font-size: 13px;
+    font-family: Arial;
+    font-weight: lighter;
+}
+
+#blue {
+    font-size: 13px;
+    font-family: Arial;
+    font-weight: lighter;
+}
+
+#green {
+    font-size: 13px;
+    font-family: Arial;
+    font-weight: lighter;
+}
+
+#orange {
+    font-size: 13px;
+    font-family: Arial;
+    font-weight: lighter;
+}
+
+/*Use any Names for your design names*/
+
+
+
+
+
+
+
+
+
+
