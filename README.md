@@ -1,4 +1,5 @@
-                                                                            THIS FILE IS FOR PRACTISE OF BASIC HTML
+            THIS FILE IS FOR PRACTISE OF BASIC HTML
+            
          OVERVIEW(/.html/)
          - PRACTISE MAKING OF COMPLEX TABLES, TABLES WITH CONTENT, PICTURES ,LINKS.
          - PRACTISE HOW TO USE THE COLS AND ROL SPAN IN COMPLEX TABLES
