@@ -59,8 +59,9 @@
    
    
    ## Resources that helped ##
-   -For the Colors[https://coolors.co/palettes/trending/blue]
-   -For the icons[https://fontawesome.com/v5.15/icons/instagram?style=brands]
+   -For the Colors[https://coolors.co/palettes/trending/blue].
+   
+   -For the icons[https://fontawesome.com/v5.15/icons/instagram?style=brands].
 
    ## Licsense 
    This work is under [MIT] liscence. It's highly free and opensource to anyone.
