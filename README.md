@@ -1,13 +1,13 @@
- ## South-Africa Cloned Wikepedia Page.[https://en.wikipedia.org/wiki/South_Africa]    
+ # South-Africa Cloned Wikepedia Page.[https://en.wikipedia.org/wiki/South_Africa]    
 
  # Welcome!
 
- Thankyou for checking this work. 
+ Thank you for checking this work. 
 
  ##ABOUT THIS WORK:
      This is a cloned page from [google.com], to checkout and test my adequate understanding on basic html(Hypertext Mark-up Language) being backed up with little css knowledge for the background styling.
 
- ## pictures, pictures, pictures
+ # pictures of my work
  <img src="animal.png">
 
   <img src="table2.png">                                        
@@ -30,7 +30,7 @@
          - THE STYLING OF LINK TAGS, AND FAMILY.
          - PRACTISE ON HOW TO USE FRONT SIZE TO ENSURE BEAUTIFUL AND MEANINGFUL LAYOUT OF WEBSITE.            
 
-   ## Built with         
+   # Built with         
       -HTML(Hypertext Mark-up Language)
       -CSS(Cascading Styles Sheet)
 
