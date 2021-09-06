@@ -44,8 +44,7 @@
             
 
    ## Let's chill ##
-   How do you see the work....
-   -Hope you like it.
+   How do you see the work..; Hope you like it. Let's continue reading...
    
    ## Best syntax Used
    ``HTML
