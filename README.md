@@ -54,8 +54,8 @@
    
 
     ``CSS
-   (border-colapse) and the (<a></a> tags).
-   padding and border-collapse; which were both for the spacing(internal) and line around my table section(Those with double lines especially).
+   (border-colapse) and the (padding).
+   padding and border-collapse; which were both for the spacing(internal) and line around my table section(Those with double lines especially.
    ``
    
    ## Resources that helped ##
