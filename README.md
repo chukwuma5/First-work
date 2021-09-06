@@ -43,9 +43,9 @@
    -For those who ant to view you can download the file from here [https://jmp.sh/r6lQatu], to view Thank you once again.
             
 
-   ## Resources that helped ##
-   -For the Colors[https://coolors.co/palettes/trending/blue]
-   -For the icons[https://fontawesome.com/v5.15/icons/instagram?style=brands]
+   ## Let's chill ##
+   How do you see the work....
+   -Hope you like it.
    
    ## Best syntax Used
    ``HTML
