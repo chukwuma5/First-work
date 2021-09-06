@@ -8,9 +8,9 @@
      This is a cloned page from [google.com], to checkout and test my adequate understanding on basic html(Hypertext Mark-up Language) being backed up with little css knowledge for the background styling.
 
  ## pictures, pictures, pictures
- <img src="Screenshot(26).png">
+ <img src="animal.png">
 
-  <img src="Screenshot(27).png">                                        
+  <img src="table2.png">                                        
             
    ##process##           
             THIS FILE IS FOR PRACTISE OF BASIC HTML
@@ -20,9 +20,9 @@
          - PRACTISE HOW TO USE THE COLS AND ROL SPAN IN COMPLEX TABLES
          - THE USE OF LINK TAGS
          - PRACTISE SEMANTIC ELEMENTS, HEADERS, AND PARAGRAPH TAGS.
-  <img src="Screenshot(27).png">   
+  <img src="table.png">   
 
-  <img src="Screenshot(29).png">                                        
+  <img src="table3.png">                                        
          
           OVERVIEW(/.css/)
          - PRACTISE DESIGNING OF COMPLEX TABLES, TABLES WITH CONTENT, PICTURES ,LINKS WITH COLORS
