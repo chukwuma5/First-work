@@ -54,7 +54,7 @@
    ## Best Style Used
    ``CSS
    ('border-collapse') and ('padding').
-   ``padding and border-collapse; which were both for the spacing(internal) and line around my table section(Those with double lines especially.
+   ``padding and border-collapse; which were both for the spacing(internal) and line around my table section(Those with double lines especially).
    
    
    ## Resources that helped ##
@@ -63,7 +63,7 @@
    -For the icons[https://fontawesome.com/v5.15/icons/instagram?style=brands].
 
    ## Licsense 
-   This work is under [MIT] liscence. It's highly free and opensource to anyone.
+   This work is under [MIT] liscence. It's highly free and open-source to anyone.
 
 
             
